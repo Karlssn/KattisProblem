@@ -1,0 +1,3 @@
+﻿  timeloop.cpp
+c:\users\m\source\repos\kattis\c++\timeloop\timeloop\timeloop\timeloop.cpp(12): warning C4018: '<=': signed/unsigned mismatch
+  timeloop.vcxproj -> C:\Users\M\source\repos\kattis\c++\timeloop\timeloop\Debug\timeloop.exe
