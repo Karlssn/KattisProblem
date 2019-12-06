@@ -1,0 +1,21 @@
+// quadrant.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+	int x, y;
+	cin >> x >> y;
+	if (x>0)
+		if (y>0)
+			cout << 1;
+		else
+			cout << 4;
+	else
+		if (y>0)
+			cout << 2;
+		else
+			cout << 3;
+	return 0;
+}
